@@ -1,4 +1,4 @@
-# is-rpm [![Build Status](https://travis-ci.org/T1st3/is-rpm.svg?branch=master)](https://travis-ci.org/T1st3/is-rpm)
+# is-rpm [![Build Status](https://travis-ci.org/t1st3/is-rpm.svg?branch=master)](https://travis-ci.org/t1st3/is-rpm)
 
 > Check if a Buffer/Uint8Array is a [RPM](https://en.wikipedia.org/wiki/RPM_Package_Manager) package.
 
@@ -50,4 +50,4 @@ It only needs the first 4 bytes.
 
 ## License
 
-MIT © [T1st3](http://www.tiste.org)
+MIT © [t1st3](http://www.tiste.org)
