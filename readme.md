@@ -1,4 +1,7 @@
-# is-rpm [![Build Status](https://travis-ci.org/t1st3/is-rpm.svg?branch=master)](https://travis-ci.org/t1st3/is-rpm)
+# is-rpm
+
+[![NPM version](https://img.shields.io/npm/v/is-rpm.svg)](https://www.npmjs.com/package/is-rpm)
+[![Build Status](https://travis-ci.org/t1st3/is-rpm.svg?branch=master)](https://travis-ci.org/t1st3/is-rpm)
 
 > Check if a Buffer/Uint8Array is a [RPM](https://en.wikipedia.org/wiki/RPM_Package_Manager) package.
 
